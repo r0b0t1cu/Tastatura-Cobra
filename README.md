@@ -24,7 +24,7 @@ Tastatura a fost proiectată pentru a fi ușor de construit, utilizând componen
 2. **Pentru Cobra:** Se conectează direct la interfața tastaturii.  
 3. **Pentru ZX Spectrum și clone:** Se identifică manual liniile și coloanele din matrice și se ajustează conexiunile corespunzător. 
 4. Tastatura este gândită să se potrivească pe carcasa de aici:
-   - [https://www.z80-romania.ro/CoBra-64] (https://www.z80-romania.ro/CoBra-64)
+   - [https://www.z80-romania.ro/CoBra-64](https://www.z80-romania.ro/CoBra-64)  
    - Fișiere: [Download CoBra Case (ZIP)](https://www.z80-romania.ro/files/64/Carcasa%20CoBra%20-%20cobrasov.com%20(2024).zip?1708896374)
 
 ## Fișiere Disponibile  
