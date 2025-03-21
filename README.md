@@ -3,6 +3,8 @@
 Acesta este un proiect open-source pentru o tastatură mecanică compatibilă cu computerul românesc **Cobra** și alte clone **ZX Spectrum**.
 Tastatura a fost proiectată pentru a fi ușor de construit, utilizând componente accesibile.  
 
+![Tastatură completă](./IMG/IMG_9382.jpg)
+
 ## Caracteristici  
 - **Compatibilitate:** Cobra, ZX Spectrum și clone  
 - **Conexiune:** Cablu panglică 2x10, conector montat pe partea inferioară a PCB-ului
@@ -19,6 +21,8 @@ Tastatura a fost proiectată pentru a fi ușor de construit, utilizând componen
   - Taste speciale pentru CP/M pe Cobra
   - Taste separate pentru: del, cursor, caps lock, edit, extended mode, "." (punct), "," (virgula), ":" (doua puncte)
 
+![Tastatură cu switch-uri](./IMG/IMG_9378.jpg)
+
 ## Instalare și Conectare  
 1. **Montaj PCB:** Conectorul cablului panglică **trebuie montat pe partea inferioară** a PCB-ului.  
 2. **Pentru Cobra:** Se conectează direct la interfața tastaturii.  
@@ -26,6 +30,8 @@ Tastatura a fost proiectată pentru a fi ușor de construit, utilizând componen
 4. Tastatura este gândită să se potrivească pe carcasa de aici:
    - [https://www.z80-romania.ro/CoBra-64](https://www.z80-romania.ro/CoBra-64)  
    - Fișiere: [Download CoBra Case (ZIP)](https://www.z80-romania.ro/files/64/Carcasa%20CoBra%20-%20cobrasov.com%20(2024).zip?1708896374)
+
+![Tastatură cu switch-uri](./IMG/IMG_9390.jpg)
 
 ## Fișiere Disponibile  
 - **Schematica și PCB:** Fișiere KiCad în folderul KICAD
@@ -38,8 +44,7 @@ Tastatura a fost proiectată pentru a fi ușor de construit, utilizând componen
 Informațiile din acest proiect au fost inspirate și dezvoltate pe baza resurselor de la:  
 - [cobrasov.com](https://cobrasov.com)  
 - [CherryZXKeyboard](https://github.com/VlastimilWagner/CherryZXKeyboard)
-Și cu observații și input prețios de la:
-- [svpantazi](https://github.com/svpantazi)  
+- Și cu observații și input prețios de la [svpantazi](https://github.com/svpantazi)  
 
 ## Licență  
 Acest proiect este **complet liber** pentru oricine dorește să-l folosească, modifice sau îmbunătățească.
@@ -84,8 +89,7 @@ The keyboard is designed to be easy to build, using readily available components
 This project was inspired and developed using information from:  
 - [cobrasov.com](https://cobrasov.com)  
 - [CherryZXKeyboard](https://github.com/VlastimilWagner/CherryZXKeyboard)  
-With valuable insights and feedback from:  
-- [svpantazi](https://github.com/svpantazi)  
+- With valuable insights and feedback from [svpantazi](https://github.com/svpantazi)  
 
 ## License  
 This project is **completely free** for anyone to use, modify, or improve.  
